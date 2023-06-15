@@ -1,0 +1,55 @@
+.body{
+    border: 2px solid orange;
+    height: 650px;
+    width: 100%;
+   
+    opacity: 0.9px;
+}
+.header{
+    border: 2px solid red;
+    height: 80%;
+    margin: 20px;
+    padding: 20px;
+    background-color: cyan;
+    box-shadow: inset;
+    
+}
+.caja1{
+    border: 1px solid yellow;
+    box-shadow: 20px;
+    padding-left: 150px;
+    background-color: chocolate;
+    border-radius: 900px;
+    height: 120px;
+    width: 100px;
+}
+.caja2{
+    border: 1px solid blue;
+    background-color: rgb(128, 119, 211);
+    padding-bottom: 80px;
+    margin-bottom: 40px;
+    margin-right: 180px;
+    margin-left: 200px;
+}
+.section{
+    border: 5px solid pink;
+    margin: 80px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+.caja3{
+    border: 7px solid black;
+    width: 60px;
+    box-shadow: 15px;
+    background-color: brown;
+}
+.caja4{
+    border: 5px solid green;
+    width: 70px;
+    background-color: azure;
+   
+}
+
